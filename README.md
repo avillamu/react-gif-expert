@@ -13,9 +13,8 @@ _Instalar Git y un editor de código de preferencia_
 * [Git](https://git-scm.com/)
 * [VSCode](https://code.visualstudio.com/)
 
-_Abrir la terminal y clonar el repositorio_
+_Abrir la terminal y clonar el repositorio. Para HTTPS,_
 
-Para HTTPS
 ```
 git clone https://github.com/usuario/nombre-del-proyecto.git
 ```
