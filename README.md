@@ -21,6 +21,8 @@ git clone https://github.com/avillamu/react-gif-expert.git
 
 ### Instalación 🔧
 
+Pasos que debes ejecutar para tener un entorno de desarrollo ejecutandose
+
 _Instalar todas las dependencias_
 
 ```
