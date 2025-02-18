@@ -16,7 +16,7 @@ _Instalar Git y un editor de código de preferencia_
 _Abrir la terminal y clonar el repositorio. Para HTTPS,_
 
 ```
-git clone https://github.com/usuario/nombre-del-proyecto.git
+git clone https://github.com/avillamu/react-gif-expert.git
 ```
 
 ### Instalación 🔧
